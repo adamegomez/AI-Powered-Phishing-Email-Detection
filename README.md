@@ -6,7 +6,7 @@ This project explores how Artificial Intelligence (AI) is used to detect phishin
 
 ## 🎥 Video Demonstration
 
-**YouTube**: [AI-Powered Phishing Email Detection Demo](https://www.youtube.com/watch?v=1FXZQY_0R0g)
+**YouTube**: [AI-Powered Phishing Email Detection Demo](https://youtu.be/GBG-5aOF89g)
 
 ---
 
