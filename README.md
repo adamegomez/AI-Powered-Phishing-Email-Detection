@@ -4,6 +4,13 @@ This project explores how Artificial Intelligence (AI) is used to detect phishin
 
 ---
 
+## 🎥 Video Demonstration
+
+**YouTube**: [AI-Powered Phishing Email Detection Demo](https://www.youtube.com/watch?v=1FXZQY_0R0g)
+
+---
+
+
 ## 🎯 Phishing Email Focus: Job Scams
 
 Job scam phishing emails are increasingly common. These emails often:
