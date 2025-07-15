@@ -43,14 +43,17 @@ This section shows how we trained a machine learning model to detect phishing us
 
 ```bash
 cd Documents
-✅ Step 3: Unzip the File
+
+```
+
+## ✅ Step 3: Unzip the File
 bash
 Copy
 Edit
 unzip archive\(1\).zip
 This extracts the dataset into your working directory.
 
-✅ Step 4: Create a Python Script Using Nano
+## ✅ Step 4: Create a Python Script Using Nano
 bash
 Copy
 Edit
@@ -86,14 +89,14 @@ test_vect = vectorizer.transform(test_email)
 print("Prediction:", model.predict(test_vect))
 Save and exit with CTRL+O, ENTER, then CTRL+X.
 
-✅ Step 5: Run the Script
+## ✅ Step 5: Run the Script
 bash
 Copy
 Edit
 python3 phishing_script.py
 🎯 Result: The AI model correctly detects that the email is a phishing attempt.
 
-🔁 Optional Step 6: Try a Normal Email
+## 🔁 Optional Step 6: Try a Normal Email
 Edit the test email to something more legitimate:
 
 python
@@ -106,9 +109,9 @@ bash
 Copy
 Edit
 python3 phishing_script.py
-✅ Result: The model identifies it as a non-phishing (normal) email.
+## ✅ Result: The model identifies it as a non-phishing (normal) email.
 
-🛡️ How to Protect Against Phishing Emails
+## 🛡️ How to Protect Against Phishing Emails
 ✅ Be cautious with links & attachments
 
 ✅ Check sender addresses for slight variations
@@ -123,5 +126,5 @@ python3 phishing_script.py
 
 ✅ Report suspicious emails
 
-📌 Conclusion
+## 📌 Conclusion
 Phishing emails — especially job scams — continue to grow in volume and complexity. AI helps us fight back by analyzing language patterns, URLs, and behavior in real time. While technology plays a key role, user awareness and education remain essential. By combining machine intelligence with smart practices, we can greatly reduce the risk of successful phishing attacks.
