@@ -47,11 +47,13 @@ cd Documents
 ```
 
 ## ✅ Step 3: Unzip the File
-bash
+``` bash
 Copy
 Edit
 unzip archive\(1\).zip
 This extracts the dataset into your working directory.
+
+```
 
 ## ✅ Step 4: Create a Python Script Using Nano
 bash
