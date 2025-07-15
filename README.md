@@ -56,7 +56,8 @@ This extracts the dataset into your working directory.
 ```
 
 ## ✅ Step 4: Create a Python Script Using Nano
-bash
+
+``` bash
 Copy
 Edit
 nano phishing_script.py
@@ -91,26 +92,36 @@ test_vect = vectorizer.transform(test_email)
 print("Prediction:", model.predict(test_vect))
 Save and exit with CTRL+O, ENTER, then CTRL+X.
 
+```
+
 ## ✅ Step 5: Run the Script
-bash
+
+``` bash
 Copy
 Edit
 python3 phishing_script.py
+
+```
 🎯 Result: The AI model correctly detects that the email is a phishing attempt.
+
 
 ## 🔁 Optional Step 6: Try a Normal Email
 Edit the test email to something more legitimate:
 
+``` 
 python
 Copy
 Edit
 test_email = ["Your meeting is scheduled for 3 PM today. Please confirm attendance."]
 Then re-run the script:
+```
 
-bash
+``` bash
 Copy
 Edit
 python3 phishing_script.py
+
+``` 
 ## ✅ Result: The model identifies it as a non-phishing (normal) email.
 
 ## 🛡️ How to Protect Against Phishing Emails
