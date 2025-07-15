@@ -1,6 +1,6 @@
 # 🧠 AI-Powered Phishing Email Detection
 
-This project explores how Artificial Intelligence (AI) is used to detect phishing emails, especially job scam phishing attempts. We walk through real-world phishing scenarios, explain how AI technologies like Machine Learning (ML) and Natural Language Processing (NLP) are used for detection, and demonstrate how to train a simple phishing detection model using a public dataset.
+This project explores how Artificial Intelligence (AI) is used to detect phishing emails, especially job scam phishing attempts. I walk through real-world phishing scenarios, explain how AI technologies like Machine Learning (ML) and Natural Language Processing (NLP) are used for detection, and demonstrate how to train a simple phishing detection model using a public dataset.
 
 ---
 
